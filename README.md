@@ -2,7 +2,7 @@
 
 This repo focuses on how LLM works, types of providers, API Keys, how does input and output token works and many more. 
 
-What is LLM ? 
+<h2><b>What is LLM ? </b></h2>
 
 LLM stands for Large Language Model, is a type of artificial intelligence (AI) that has been trained on vast amounts of text, image and documentation data to understand, generate and interact with human language.
 
