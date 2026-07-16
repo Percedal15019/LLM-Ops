@@ -75,7 +75,7 @@ It is the practice of deploying, monitoring and maintaining LLMs in your product
 
 <br>
 
-<h2><img src="https://api.iconify.design/flowbite:api-key-outline.svg?color=%23888888" width="40">     API Key</h2>
+<h2><img src="https://api.iconify.design/flowbite:api-key-outline.svg?color=%23888888" width="33">     API Key</h2>
 
 
 
