@@ -29,7 +29,7 @@ LLMs are useful because they act as powerful "thinking and cooperative partners"
 > LLMs works on the prediction concept that is it predicts the next move. Sometimes they are confidently state things that are completely false. <br>
 > YOU SHOULD NEVER RELY ON THEM !!!
 
-<br>
+---
 
 <h2><b> Why I named it LLM-Ops ?</b></h2>
 
@@ -41,7 +41,7 @@ It is the practice of deploying, monitoring and maintaining LLMs in your product
 > [!NOTE]
 > I am not here to tell you about "What or Why" the LLM works. <br> I am here to explain that "How-To" use them for your own benefits and make your daily tasks easy.
 
-<br>
+
 
 <h2><b>Free Providers</b></h2>
 
