@@ -74,3 +74,13 @@ It is the practice of deploying, monitoring and maintaining LLMs in your product
 ### [OpenCode Zen](https://opencode.ai/docs/zen/)
 
 <br>
+
+<h2><img src="https://api.iconify.design/flowbite:api-key-outline.svg?color=%23888888" width="28">  API Key</h2>
+
+
+
+
+
+
+
+
