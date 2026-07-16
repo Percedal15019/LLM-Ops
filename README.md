@@ -31,7 +31,7 @@ LLMs are useful because they act as powerful "thinking and cooperative partners"
 
 ---
 
-<h2><b> Why I named it LLM-Ops ?</b></h2>
+<h2><b>🤔 Why I named it LLM-Ops ?</b></h2>
 
 LLMOps (Large Language Model Operations) is the application usage of DevOps principles to the entire lifecycle of a LLM.
 It is the practice of deploying, monitoring and maintaining LLMs in your production environment.
@@ -43,12 +43,11 @@ It is the practice of deploying, monitoring and maintaining LLMs in your product
 
 
 
-<h2><b>Free Providers</b></h2>
+<h2><b> <img src="https://api.iconify.design/streamline-freehand:send-email-paper-plane-1.svg?color=%23888888" width="28">   Free Providers</b></h2>
 
 <br>
 
 - [Cloudflare Workers AI](#cloudflare-workers-ai)
-- [GitHub Models](#github-models)
 - [Google AI Studio](#google-ai-studio)
 - [Mistral (Codestral)](#mistral-codestral)
 - [OpenRouter](#openrouter)
@@ -56,3 +55,22 @@ It is the practice of deploying, monitoring and maintaining LLMs in your product
 
 <br>
 
+<h3>[Cloudflare Workers AI]()</h3>
+
+<br>
+
+<h3>Google AI Studio</h3>
+
+<br>
+
+<h3>Mistral (Codestral)</h3>
+
+<br>
+
+<h3>[OpenRouter](https://openrouter.ai)</h3>
+
+<br>
+
+<h3>OpenCode Zen</h3>
+
+<br>
