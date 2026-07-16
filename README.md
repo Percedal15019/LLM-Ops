@@ -59,11 +59,11 @@ It is the practice of deploying, monitoring and maintaining LLMs in your product
 
 <br>
 
-[Google AI Studio](https://developers.cloudflare.com/workers-ai)
+### [Google AI Studio](https://developers.cloudflare.com/workers-ai)
 
 <br>
 
-[Mistral (Codestral)](https://codestral.mistral.ai/)
+### [Mistral (Codestral)](https://codestral.mistral.ai/)
 
 <br>
 
