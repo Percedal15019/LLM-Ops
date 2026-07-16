@@ -55,22 +55,22 @@ It is the practice of deploying, monitoring and maintaining LLMs in your product
 
 <br>
 
-<h3>[Cloudflare Workers AI]()</h3>
+### [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai)
 
 <br>
 
-<h3>Google AI Studio</h3>
+[Google AI Studio](https://developers.cloudflare.com/workers-ai)
 
 <br>
 
-<h3>Mistral (Codestral)</h3>
+[Mistral (Codestral)](https://codestral.mistral.ai/)
 
 <br>
 
-<h3>[OpenRouter](https://openrouter.ai)</h3>
+### [OpenRouter](https://openrouter.ai)
 
 <br>
 
-<h3>OpenCode Zen</h3>
+### [OpenCode Zen](https://opencode.ai/docs/zen/)
 
 <br>
