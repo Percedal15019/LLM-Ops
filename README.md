@@ -49,7 +49,9 @@ It is the practice of deploying, monitoring and maintaining LLMs in your product
 
 - [Cloudflare Workers AI](#cloudflare-workers-ai)
 - [Google AI Studio](#google-ai-studio)
+- [LMStudio](#lmstudio)
 - [Mistral (Codestral)](#mistral-codestral)
+- [Ollama](#ollama)
 - [OpenRouter](#openrouter)
 - [OpenCode Zen](#opencode-zen)
 
@@ -63,7 +65,15 @@ It is the practice of deploying, monitoring and maintaining LLMs in your product
 
 <br>
 
+### [LMStudio]()
+
+<br>
+
 ### [Mistral (Codestral)](https://codestral.mistral.ai/)
+
+<br>
+
+### [Ollama]()
 
 <br>
 
