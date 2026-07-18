@@ -48,8 +48,6 @@ It is the practice of deploying, monitoring and maintaining LLMs in your product
 <br>
 
 - [Cloudflare Workers AI](#cloudflare-workers-ai)
-- [Google AI Studio](#google-ai-studio)
-- [Mistral (Codestral)](#mistral-codestral)
 - [Ollama](#ollama)
 - [OpenRouter](#openrouter)
 - [OpenCode Zen](#opencode-zen)
@@ -83,16 +81,6 @@ For context: Generating a short para of text (using a small model like Llama 3) 
 >[!TIP]
 > Use this provider, if you want to run small, open-source models cheaply at the edge with high privacy.
 > This is best for beginner developers for building their projects. 
-
-<br>
-
-### [Google AI Studio](https://developers.cloudflare.com/workers-ai)
-
-
-
-<br>
-
-### [Mistral (Codestral)](https://codestral.mistral.ai/)
 
 <br>
 
