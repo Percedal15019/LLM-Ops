@@ -66,6 +66,17 @@ Free Plan Limit: [10,000 Neurons/day](https://developers.cloudflare.com/workers-
 Cloudflare measures AI usage in Neurons. <br>
 For context: Generating a short para of text (using a small model like Llama 3) might cost around 50 to 120 neurons. So, proper management of queries a day is necessary. 
 
+| Model List | Context Window |
+| ---------- | -------------- |
+| @cf/meta/llama-3.1-8b-instruct-fast | 7,872 tokens |
+| @cf/meta-llama/llama-2-7b-chat-hf-lora | 3,070 tokens | 
+| @cf/google/gemma-2b-it-lora | 7,200 tokens |
+| @cf/google/gemma-7b-it-lora | 7,200 tokens |
+| @cf/deepseek-ai/deepseek-r1-distill-qwen-32b | 8,192 tokens |
+| @cf/qwen/qwen2.5-coder-32b-instruct | 32,768 tokens |
+| @cf/mistralai/mistral-small-3.1-24b-instruct | 128,000 tokens (Costs More) |
+| @cf/meta/llama-3.1-8b-instruct-fp8 | 32,000 tokens |
+
 <br>
 
 >[!TIP]
