@@ -66,6 +66,12 @@ Free Plan Limit: [10,000 Neurons/day](https://developers.cloudflare.com/workers-
 Cloudflare measures AI usage in Neurons. <br>
 For context: Generating a short para of text (using a small model like Llama 3) might cost around 50 to 120 neurons. So, proper management of queries a day is necessary. 
 
+I personally use cloudflare in the projects which requires small or intermediate level models. Also its very easy to integrate as well. 
+
+>[!TIP]
+> Use this provider, if you want to run small, open-source models cheaply at the edge with high privacy.
+> This is best for beginner developers for building their projects. 
+
 <br>
 
 ### [Google AI Studio](https://developers.cloudflare.com/workers-ai)
