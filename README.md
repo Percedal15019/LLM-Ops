@@ -63,7 +63,8 @@ It is the practice of deploying, monitoring and maintaining LLMs in your product
 
 Free Plan Limit: [10,000 Neurons/day](https://developers.cloudflare.com/workers-ai/platform/limits/)
 
-Cloudflare measures AI usage in Neurons. For context: Generating a short para of text (using a small model like Llama 3) might cost around 50 to 120 neurons. So, proper management of queries a day is necessary. 
+Cloudflare measures AI usage in Neurons. 
+For context: Generating a short para of text (using a small model like Llama 3) might cost around 50 to 120 neurons. So, proper management of queries a day is necessary. 
 
 <br>
 
