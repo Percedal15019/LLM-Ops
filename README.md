@@ -154,8 +154,12 @@ Once you sign up, you get an API key just like with other providers. It's option
 
 API stands for **Application Programming Interface**, is a secret token that uniquely identifies and authorizes your application to access an API service, enabling authentication, billing, rate limiting, and access control.
 
+<br>
+
 > [!WARNING]
 > Treat an API Key like a credit card number. If you push it to a public GitHub repository, hackers will find it and use it to run massive AI computations, draining your account or getting you banned. <br> Always keep it in a hidden environment variable (.env file).
+
+<br>
 
 Important Aspects To Consider When You use a LLM :-
 
