@@ -124,7 +124,7 @@ It is built on the idea that most teams will end up using multiple models, not p
 
 ### [OpenCode Zen](https://opencode.ai/docs/zen/)
 
-OpenCode Zen lists some models the OpenCode team has reviewed and tested. <br>
+It lists some models the OpenCode team has reviewed and tested. <br>
 Once you sign up, you get an API key just like with other providers. It's optional - not required if you don't want to use it.
 
 <br>
@@ -145,23 +145,55 @@ Once you sign up, you get an API key just like with other providers. It's option
 <br>
 
 > [!TIP]
-> 1. It is versatile and generally fine-tuned for Coding.
-> 2. Also it is totally private and it is very easy to integrate many providers at once.
+> 1. It is versatile and generally fine-tuned for **Coding**.
+> 2. Also it is **private** and it is very easy to integrate many providers at once.
 
 <br>
 
 <h2><img src="https://api.iconify.design/streamline-pixel:interface-essential-key-1.svg?color=%23888888" width="33">     API Key</h2>
 
+API stands for **Application Programming Interface**, is a secret token that uniquely identifies and authorizes your application to access an API service, enabling authentication, billing, rate limiting, and access control.
+
+> [!WARNING]
+> Treat an API Key like a credit card number. If you push it to a public GitHub repository, hackers will find it and use it to run massive AI computations, draining your account or getting you banned. <br> Always keep it in a hidden environment variable (.env file).
+
+Important Aspects To Consider When You use a LLM :-
+
 - [I/O Tokens](#i/o-tokens)
+- [Context Window](#context-window)
+- [Model Quality](#model-quality)
+- [Rate Limits(RPM)](#rate-limits(rpm))
+- [Latency](#latency)
 
 <br>
 
+---
+
 ### I/O Tokens
 
+<br>
 
+---
 
+### Context Window
 
+<br>
 
+---
+
+### Model Quality
+
+<br>
+
+---
+
+### Rate Limits(RPM)
+
+<br>
+
+---
+
+### Latency
 
 
 
