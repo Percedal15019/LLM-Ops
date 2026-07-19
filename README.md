@@ -124,6 +124,30 @@ It is built on the idea that most teams will end up using multiple models, not p
 
 ### [OpenCode Zen](https://opencode.ai/docs/zen/)
 
+OpenCode Zen lists some models the OpenCode team has reviewed and tested. <br>
+Once you sign up, you get an API key just like with other providers. It's optional - not required if you don't want to use it.
+
+<br>
+
+> [Recent Models Available](https://opencode.ai/docs/zen/)
+
+<br>
+
+| Model Name | Context Window |
+| ---------- | -------------- |
+| Big Pickle | 200K |
+| DeepSeek V4 Flash Free | 200K |
+| MiMo-V2.5 Free | 200K |
+| North Mini Code Free | 256K |
+| Nemotron 3 Ultra Free | 1M |
+| Hy3 Free | 190K |
+
+<br>
+
+> [!TIP]
+> 1. It is versatile and generally fine-tuned for Coding.
+> 2. Also it is totally private and it is very easy to integrate many providers at once.
+
 <br>
 
 <h2><img src="https://api.iconify.design/streamline-pixel:interface-essential-key-1.svg?color=%23888888" width="33">     API Key</h2>
