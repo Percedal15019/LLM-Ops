@@ -157,7 +157,7 @@ API stands for **Application Programming Interface**, is a secret token that uni
 <br>
 
 > [!WARNING]
-> Treat an API Key like a credit card number. If you push it to a public GitHub repository, hackers will find it and use it to run massive AI computations, draining your account or getting you banned. <br><br> **Always keep it in a hidden environment variable (.env file).**
+> Treat an API Key like a credit card number. If you push it to a public GitHub repository, hackers will find it and use it to run massive AI computations, draining your account or getting you banned. <br><br> **Always keep it in a hidden environment variable (.env file) and .gitignore it.**
 
 <br>
 
