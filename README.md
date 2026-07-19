@@ -26,7 +26,7 @@ LLMs are useful because they act as powerful "thinking and cooperative partners"
 <br>
 
 > [!CAUTION]
-> LLMs works on the prediction concept that is it predicts the next move. Sometimes they are confidently state things that are completely false. <br>
+> LLMs works on the prediction concept that is it predicts the next move. Sometimes they are confidently state things that are completely false. <br> <br>
 > **YOU SHOULD NEVER RELY ON THEM !!!**
 
 ---
