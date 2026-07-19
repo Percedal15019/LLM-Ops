@@ -48,7 +48,6 @@ It is the practice of deploying, monitoring and maintaining LLMs in your product
 <br>
 
 - [Cloudflare Workers AI](#cloudflare-workers-ai)
-- [Ollama](#ollama)
 - [OpenRouter](#openrouter)
 - [OpenCode Zen](#opencode-zen)
 
@@ -84,9 +83,6 @@ For context: Generating a short para of text (using a small model like Llama 3) 
 
 <br>
 
-### [Ollama]()
-
-<br>
 
 ### [OpenRouter](https://openrouter.ai)
 
