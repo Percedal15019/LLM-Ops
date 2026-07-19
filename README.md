@@ -111,6 +111,8 @@ It is built on the idea that most teams will end up using multiple models, not p
 | openai/gpt-oss-20b:free | 131K |
 | cohere/north-mini-code:free | 256K |
 
+<br>
+
 > [!TIP]
   > 1. This is the best provider for free and high context window with zero cost API.<br>
   > 2. The models have high parameter models (which is in couple billions).<br>
