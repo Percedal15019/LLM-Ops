@@ -110,8 +110,8 @@ It is built on the idea that most teams will end up using multiple models, not p
 | cohere/north-mini-code:free | 256K |
 
 > [!TIP]
-> This is the best provider for free and high context window with zero cost API.
-> The models have high parameter models (which is in couple billions).
+> This is the best provider for free and high context window with zero cost API.<br>
+> The models have high parameter models (which is in couple billions).<br>
 > This is best for moderate to high-end project building.
 
 <br>
