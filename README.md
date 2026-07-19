@@ -85,6 +85,7 @@ For context: Generating a short para of text (using a small model like Llama 3) 
   > 1. Use this provider, if you want to run small, open-source models cheaply at the edge with high privacy.
   > 2. This is best for beginner developers for building their projects. 
 
+---
 <br>
 
 ### [OpenRouter](https://openrouter.ai)
@@ -113,6 +114,9 @@ It is built on the idea that most teams will end up using multiple models, not p
   > 1. This is the best provider for free and high context window with zero cost API.<br>
   > 2. The models have high parameter models (which is in couple billions).<br>
   > 3. This is best for moderate to high-end project building.
+
+
+---
 
 <br>
 
