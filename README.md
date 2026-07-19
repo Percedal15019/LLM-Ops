@@ -27,7 +27,7 @@ LLMs are useful because they act as powerful "thinking and cooperative partners"
 
 > [!CAUTION]
 > LLMs works on the prediction concept that is it predicts the next move. Sometimes they are confidently state things that are completely false. <br>
-> YOU SHOULD NEVER RELY ON THEM !!!
+> **YOU SHOULD NEVER RELY ON THEM !!!**
 
 ---
 
@@ -157,7 +157,7 @@ API stands for **Application Programming Interface**, is a secret token that uni
 <br>
 
 > [!WARNING]
-> Treat an API Key like a credit card number. If you push it to a public GitHub repository, hackers will find it and use it to run massive AI computations, draining your account or getting you banned. <br> **Always keep it in a hidden environment variable (.env file).**
+> Treat an API Key like a credit card number. If you push it to a public GitHub repository, hackers will find it and use it to run massive AI computations, draining your account or getting you banned. <br><br> **Always keep it in a hidden environment variable (.env file).**
 
 <br>
 
