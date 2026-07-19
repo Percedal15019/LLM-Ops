@@ -83,8 +83,16 @@ For context: Generating a short para of text (using a small model like Llama 3) 
 
 <br>
 
-
 ### [OpenRouter](https://openrouter.ai)
+
+OpenRouter provides a unified API that gives you access to hundreds of AI models through a single endpoint, while automatically handling fallbacks and selecting the most cost-effective options. <br>
+OpenRouter helps developers source and optimize AI usage. We believe the future is multi-model and multi-provider.
+
+
+
+
+
+
 
 <br>
 
