@@ -85,8 +85,9 @@ For context: Generating a short para of text (using a small model like Llama 3) 
 
 ### [OpenRouter](https://openrouter.ai)
 
-OpenRouter provides a unified API that gives you access to hundreds of AI models through a single endpoint, while automatically handling fallbacks and selecting the most cost-effective options. <br>
-OpenRouter helps developers source and optimize AI usage. We believe the future is multi-model and multi-provider.
+OpenRouter is a single API endpoint that connects to hundreds of AI models from different providers. It routes requests automatically: if one model or provider is down or too expensive, it falls back to another. You get one API key and one bill instead of juggling a dozen accounts. 
+
+It is built on the idea that most teams will end up using multiple models, not picking one winner.
 
 
 
