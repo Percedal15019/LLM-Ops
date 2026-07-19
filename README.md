@@ -101,15 +101,18 @@ It is built on the idea that most teams will end up using multiple models, not p
 
 | Model Name | Context Window |
 | ---------- | -------------- |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| tencent/hy3:free | 262K |
+| google/gemma-4-26b-a4b-it:free | 262K |
+| qwen/qwen3-coder:free | 1M |
+| nousresearch/hermes-3-llama-3.1-405b:free | 131K |
+| nvidia/nemotron-3-ultra-550b-a55b:free | 1M |
+| openai/gpt-oss-20b:free | 131K |
+| cohere/north-mini-code:free | 256K |
 
-
+> [!TIP]
+> This is the best provider for free and high context window with zero cost API.
+> The models have high parameter models (which is in couple billions).
+> This is best for moderate to high-end project building.
 
 <br>
 
