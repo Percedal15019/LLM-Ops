@@ -86,6 +86,7 @@ For context: Generating a short para of text (using a small model like Llama 3) 
   > 2. This is best for beginner developers for building their projects. 
 
 <br>
+
 ---
 
 ### [OpenRouter](https://openrouter.ai)
@@ -116,6 +117,7 @@ It is built on the idea that most teams will end up using multiple models, not p
   > 3. This is best for moderate to high-end project building.
 
 <br>
+
 ---
 
 ### [OpenCode Zen](https://opencode.ai/docs/zen/)
