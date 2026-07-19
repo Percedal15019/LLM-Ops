@@ -66,6 +66,8 @@ For context: Generating a short para of text (using a small model like Llama 3) 
 
 > [Recent Models Available](https://developers.cloudflare.com/workers-ai/models/)
 
+<br>
+
 | Model Name | Context Window |
 | ---------- | -------------- |
 | @cf/meta/llama-3.1-8b-instruct-fast | 7,872 tokens |
@@ -91,7 +93,11 @@ OpenRouter is a single API endpoint that connects to hundreds of AI models from 
 
 It is built on the idea that most teams will end up using multiple models, not picking one winner.
 
+<br>
+
 > [Recent Models Available](https://openrouter.ai/models)
+
+<br>
 
 | Model Name | Context Window |
 | ---------- | -------------- |
